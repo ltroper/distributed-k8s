@@ -1,4 +1,4 @@
-# Deploying a Distributed Kubernetes Cluster on Linode with Terraform
+# Deploy a Distributed Kubernetes Cluster on Linode with Terraform
 
 This guide will walk you through the process of deploying a distributed Kubernetes (K8s) cluster on Linode using Terraform. The cluster will consist of a control plane node and multiple worker nodes.
 
